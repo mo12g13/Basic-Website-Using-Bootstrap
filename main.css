@@ -1,0 +1,46 @@
+.jumbotron{
+    font-family: 'Lobster', cursive;
+    height: 350px;
+    background-image: url("http://bestanimations.com/Nature/Water/endless-ocean-gif.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#learnMore{
+    margin-top: 70px;
+
+}
+#coffeeprice{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.coffeetext{
+    font-family: Cookie;
+}
+body{
+    text-align: justify;
+}
+p{
+    font-size: 2em;
+    font-family:Righteous ;
+}
+/*font-family: 'Abril Fatface', cursive;*/
+/*font-family: 'Francois One', sans-serif;*/
+/*font-family: 'Righteous', cursive;*/
+
+h2{
+    margin-top: -15px;
+    font-family: 'Righteous', cursive;
+    text-decoration-line: underline;
+    color: darkblue;
+    font-weight: bold;
+
+}
+img{
+    background-size: contain;
+}
+footer{
+    font-size: .9em;
+    text-align: center;
+}
